@@ -21,6 +21,7 @@
    Step 7 : stop.
 
 **Program :**
+NAME: MITHUN KUMAR.G  REG NO:212224230160
 ~~~
 #include "stdio.h" 
 #include "conio.h" 
